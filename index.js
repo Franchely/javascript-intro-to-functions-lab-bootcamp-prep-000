@@ -15,4 +15,10 @@ function logWhisper(string) {
   console.log ("hello")
 }
 
+var uppercase = "HELLO!"
+var lowercase = "hello!"
+var mixedcase = "Hi there!"
 
+function sayHiToGrandma(string) {
+  
+}
