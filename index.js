@@ -20,5 +20,5 @@ var lowercase = "hello!"
 var mixedcase = "Hi there!"
 
 function sayHiToGrandma(string) {
-  
+  return string(hello)
 }
